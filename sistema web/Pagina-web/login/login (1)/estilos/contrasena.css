@@ -1,0 +1,31 @@
+.body{
+    font-family: 'Cambria', sans-serif;
+    background-color: rgba(255, 255, 255, 0.918);
+
+}
+.recupera-contraseña{
+        width: 250px;
+        height: 200x;
+        background: rgb(82, 3, 25);
+        margin: auto;
+        margin-top: 145px;
+        box-shadow: 7px 13px 37px #000;
+        padding: 20px 30px;
+        border-top: 4px rgb(82, 3, 25);
+        color: rgba(255, 255, 255, 0.918);
+        border-radius: 15px;
+}
+.controls{
+    font-family: 'Cambria', sans-serif;
+    background-position: center;
+    border-radius: 15px;
+    border-top: 80px;
+    padding: 15px 30px;
+}
+
+.botons{
+    font-family: 'Cambria', sans-serif;
+    border-radius: 15px;
+    padding: 20px 35px;
+    border-top:80px;
+}

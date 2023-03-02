@@ -1,0 +1,68 @@
+
+body{
+    background-color: rgba(255, 255, 255, 0.96);
+    font-family: 'Cambria', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+aside{
+    background: rgb(82, 3, 25);
+    margin: 0 auto;
+    padding: 30px;
+    width: 60%;
+    border-radius: 20px;
+
+} 
+aside .com{
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    padding-top: 10px;
+
+} 
+aside .beb {
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    padding-top: 10px;
+
+}
+aside .dul{
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    padding-top: 10px;
+
+}
+aside .otros{
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    padding-top: 10px;
+
+}
+.nav{
+    justify-content: center;
+    
+}
+.ati{
+    justify-content: left;
+    font-family: 'Cambria', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+.tit{
+    font-family: 'Cambria', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding: 20px 30px ;
+    text-align: center;
+}
+aside .imf{
+    justify-content: center;
+}
+
